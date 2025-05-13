@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/admin-dashboard-template-with-flat-design_23-2147869112.jpg?ga=GA1.1.1198802700.1747095576&semt=ais_hybrid&w=740)](https://encrypted-tbn0.gstatic.com/im...)]
+[![MasterHead](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)](https://encrypted-tbn0.gstatic.com/im...)]
 <h1 align="center">Hi 👋, I'm Donald</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
