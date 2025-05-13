@@ -8,11 +8,15 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 👯 I’m looking to collaborate on **automation and process optimization**
+
 - 👨‍💻 All of my projects are available at [https://github.com/DonaldNwachukwu](https://github.com/DonaldNwachukwu)
 
 - 💬 Ask me about **python, SQL, Power BI**
 
 - 📫 How to reach me **reginaldnwachukwu6@gmail.com**
+
+- ⚡ Fun fact **I think too much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donaldnwachukwu&show_icons=true&locale=en&layout=compact" alt="donaldnwachukwu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donaldnwachukwu&show_icons=true&locale=en" alt="donaldnwachukwu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldnwachukwu&" alt="donaldnwachukwu" /></p>
