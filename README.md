@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)](https://encrypted-tbn0.gstatic.com/im...)]
+[![MasterHead](https://motionarray.imgix.net/1577784-UesA76ldyl-high_0000.jpg?w=660&q=60&fit=max&auto=format)](https://encrypted-tbn0.gstatic.com/im...)]
 <h1 align="center">Hi 👋, I'm Donald</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
